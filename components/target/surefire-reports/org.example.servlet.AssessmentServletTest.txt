@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.servlet.AssessmentServletTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.203 s <<< FAILURE! - in org.example.servlet.AssessmentServletTest
+org.example.servlet.AssessmentServletTest.testAssesmentServlet  Time elapsed: 1.133 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.example.servlet.AssessmentServletTest.testAssesmentServlet(AssessmentServletTest.java:36)
+

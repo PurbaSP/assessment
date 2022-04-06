@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: My Project Site Webapp
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: 
+Created-By: Maven Integration for Eclipse
+

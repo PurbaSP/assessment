@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: My Project Site Components
+Specification-Version: 0.1
+Specification-Vendor: 
+Implementation-Title: My Project Site Components
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: 
+Created-By: Maven Integration for Eclipse
+Implementation-Build: 2022-03-30T23:25:35Z
+

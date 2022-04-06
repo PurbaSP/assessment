@@ -1,0 +1,928 @@
+2022-03-31 01:24:38,856 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-31 01:25:35,064 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-31 01:25:36,713 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
+2022-03-31 01:25:36,999 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
+2022-03-31 01:25:37,094 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
+2022-03-31 01:25:37,174 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.2/maven-deploy-plugin-2.8.2.jar
+2022-03-31 01:25:37,200 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.2/maven-deploy-plugin-2.8.2.jar
+2022-03-31 01:25:37,310 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.2/maven-deploy-plugin-2.8.2.jar
+2022-03-31 01:25:37,408 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/maven/plugins/maven-site-plugin/3.9.1/maven-site-plugin-3.9.1.jar
+2022-03-31 01:25:37,488 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.9.1/maven-site-plugin-3.9.1.jar
+2022-03-31 01:25:37,558 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.9.1/maven-site-plugin-3.9.1.jar
+2022-03-31 01:25:40,004 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:myproject-components:0.1.0-SNAPSHOT @ C:\Users\31651\myproject\site\components\pom.xml.
+2022-03-31 01:25:41,784 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.pom
+2022-03-31 01:25:41,862 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.pom
+2022-03-31 01:25:41,954 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.pom
+2022-03-31 01:25:41,984 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2022-03-31 01:25:42,016 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2022-03-31 01:25:42,079 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2022-03-31 01:25:42,113 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.pom
+2022-03-31 01:25:42,150 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.pom
+2022-03-31 01:25:42,198 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.pom
+2022-03-31 01:25:42,228 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2022-03-31 01:25:42,257 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2022-03-31 01:25:42,391 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2022-03-31 01:25:42,424 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2022-03-31 01:25:42,461 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2022-03-31 01:25:42,510 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2022-03-31 01:25:42,565 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.pom
+2022-03-31 01:25:42,588 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.pom
+2022-03-31 01:25:42,621 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.pom
+2022-03-31 01:25:42,712 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.pom
+2022-03-31 01:25:42,745 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.pom
+2022-03-31 01:25:42,905 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.pom
+2022-03-31 01:25:42,934 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0-b01/javax.xml.soap-api-1.4.0-b01.pom
+2022-03-31 01:25:42,971 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0-b01/javax.xml.soap-api-1.4.0-b01.pom
+2022-03-31 01:25:43,004 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0-b01/javax.xml.soap-api-1.4.0-b01.pom
+2022-03-31 01:25:43,028 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.pom
+2022-03-31 01:25:43,060 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.pom
+2022-03-31 01:25:43,108 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.pom
+2022-03-31 01:25:43,135 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2022-03-31 01:25:43,165 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2022-03-31 01:25:43,211 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2022-03-31 01:25:43,240 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2022-03-31 01:25:43,273 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2022-03-31 01:25:43,326 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2022-03-31 01:25:43,382 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.pom
+2022-03-31 01:25:43,421 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.pom
+2022-03-31 01:25:43,475 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.pom
+2022-03-31 01:25:43,509 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jacorb/jacorb-parent/3.9/jacorb-parent-3.9.pom
+2022-03-31 01:25:43,556 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacorb/jacorb-parent/3.9/jacorb-parent-3.9.pom
+2022-03-31 01:25:43,613 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacorb/jacorb-parent/3.9/jacorb-parent-3.9.pom
+2022-03-31 01:25:44,287 [AetherRepositoryConnector-maven.onehippo.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar
+2022-03-31 01:25:44,305 [AetherRepositoryConnector-maven.onehippo.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.jar
+2022-03-31 01:25:44,305 [AetherRepositoryConnector-maven.onehippo.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2022-03-31 01:25:44,307 [AetherRepositoryConnector-maven.onehippo.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar
+2022-03-31 01:25:44,309 [AetherRepositoryConnector-maven.onehippo.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.jar
+2022-03-31 01:25:44,323 [AetherRepositoryConnector-maven.onehippo.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.jar
+2022-03-31 01:25:44,327 [AetherRepositoryConnector-maven.onehippo.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2022-03-31 01:25:44,327 [AetherRepositoryConnector-maven.onehippo.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.jar
+2022-03-31 01:25:44,379 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar
+2022-03-31 01:25:44,410 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2022-03-31 01:25:44,418 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.jar
+2022-03-31 01:25:44,419 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar
+2022-03-31 01:25:44,421 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.jar
+2022-03-31 01:25:44,495 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar
+2022-03-31 01:25:44,496 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2022-03-31 01:25:44,517 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.jar
+2022-03-31 01:25:44,538 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2022-03-31 01:25:44,545 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03.jar
+2022-03-31 01:25:44,554 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7.jar
+2022-03-31 01:25:44,628 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.jar
+2022-03-31 01:25:44,673 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3.jar
+2022-03-31 01:25:44,686 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar
+2022-03-31 01:25:44,795 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2022-03-31 01:25:44,918 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9.jar
+2022-03-31 01:25:46,783 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /components/src/main/java
+2022-03-31 01:25:46,785 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /components/src/main/java overlaps with sources folder /components/src/main/java
+2022-03-31 01:25:46,787 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /components/src/main/resources
+2022-03-31 01:25:46,801 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /components/src/test/java
+2022-03-31 01:25:46,801 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /components/src/test/resources
+2022-03-31 01:25:47,610 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:47,621 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:47,622 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:25:47,655 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:47,656 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:25:47,676 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2-sources.jar
+2022-03-31 01:25:47,768 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2-sources.jar
+2022-03-31 01:25:47,866 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2-sources.jar
+2022-03-31 01:25:47,871 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet.jsp:jsp-api:2.2
+2022-03-31 01:25:47,969 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5-sources.jar
+2022-03-31 01:25:47,990 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.example:myproject-webapp:0.1.0-SNAPSHOT @ C:\Users\31651\myproject\site\webapp\pom.xml.
+2022-03-31 01:25:48,062 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5-sources.jar
+2022-03-31 01:25:48,105 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-site/0.1.0-SNAPSHOT/maven-metadata.xml
+2022-03-31 01:25:48,170 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-site/0.1.0-SNAPSHOT/myproject-repository-data-site-0.1.0-SNAPSHOT.pom
+2022-03-31 01:25:48,172 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-site:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:48,201 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-webfiles/0.1.0-SNAPSHOT/maven-metadata.xml
+2022-03-31 01:25:48,235 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-webfiles/0.1.0-SNAPSHOT/myproject-repository-data-webfiles-0.1.0-SNAPSHOT.pom
+2022-03-31 01:25:48,239 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-webfiles:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:48,378 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5-sources.jar
+2022-03-31 01:25:48,382 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.taglibs:taglibs-standard-spec:1.2.5
+2022-03-31 01:25:48,477 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5-sources.jar
+2022-03-31 01:25:48,563 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5-sources.jar
+2022-03-31 01:25:48,647 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5-sources.jar
+2022-03-31 01:25:48,651 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.taglibs:taglibs-standard-impl:1.2.5
+2022-03-31 01:25:48,673 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/components: org.example:myproject-components:0.1.0-SNAPSHOT with classifier  to /components/target/classes
+2022-03-31 01:25:48,712 [AetherRepositoryConnector-maven.onehippo.com-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-site/0.1.0-SNAPSHOT/myproject-repository-data-site-0.1.0-SNAPSHOT.jar
+2022-03-31 01:25:48,728 [AetherRepositoryConnector-maven.onehippo.com-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-webfiles/0.1.0-SNAPSHOT/myproject-repository-data-webfiles-0.1.0-SNAPSHOT.jar
+2022-03-31 01:25:48,746 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-content-beans/14.7.3/hst-content-beans-14.7.3-sources.jar
+2022-03-31 01:25:48,898 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-content-beans/14.7.3/hst-content-beans-14.7.3-sources.jar
+2022-03-31 01:25:48,902 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-content-beans:14.7.3
+2022-03-31 01:25:48,991 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/bytebuddy/byte-buddy/1.10.2/byte-buddy-1.10.2-sources.jar
+2022-03-31 01:25:49,082 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.2/byte-buddy-1.10.2-sources.jar
+2022-03-31 01:25:49,293 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.2/byte-buddy-1.10.2-sources.jar
+2022-03-31 01:25:49,298 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.10.2
+2022-03-31 01:25:49,391 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2022-03-31 01:25:49,573 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2022-03-31 01:25:49,645 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:49,646 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:49,647 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:49,649 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:49,650 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:49,733 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2022-03-31 01:25:49,736 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2022-03-31 01:25:49,831 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/commons/commons-proxy/1.0/commons-proxy-1.0-sources.jar
+2022-03-31 01:25:49,918 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-proxy/1.0/commons-proxy-1.0-sources.jar
+2022-03-31 01:25:49,925 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.commons:commons-proxy:1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.commons:commons-proxy:jar:sources:1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:25:50,036 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-commons/14.7.3/hst-commons-14.7.3-sources.jar
+2022-03-31 01:25:50,196 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-commons/14.7.3/hst-commons-14.7.3-sources.jar
+2022-03-31 01:25:50,202 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-commons:14.7.3
+2022-03-31 01:25:50,285 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/core/jackson-databind/2.10.5.1/jackson-databind-2.10.5.1-sources.jar
+2022-03-31 01:25:50,366 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.10.5.1/jackson-databind-2.10.5.1-sources.jar
+2022-03-31 01:25:50,545 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.10.5.1/jackson-databind-2.10.5.1-sources.jar
+2022-03-31 01:25:50,549 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.10.5.1
+2022-03-31 01:25:50,628 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2022-03-31 01:25:50,706 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2022-03-31 01:25:50,799 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2022-03-31 01:25:50,801 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.9.4
+2022-03-31 01:25:50,882 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2022-03-31 01:25:50,947 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2022-03-31 01:25:51,113 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2022-03-31 01:25:51,115 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2022-03-31 01:25:51,200 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-client/14.7.3/hst-client-14.7.3-sources.jar
+2022-03-31 01:25:51,346 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-client/14.7.3/hst-client-14.7.3-sources.jar
+2022-03-31 01:25:51,354 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-client:14.7.3
+2022-03-31 01:25:52,438 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-rewriter/14.7.3/hst-rewriter-14.7.3-sources.jar
+2022-03-31 01:25:52,534 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-rewriter/14.7.3/hst-rewriter-14.7.3-sources.jar
+2022-03-31 01:25:52,537 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-rewriter:14.7.3
+2022-03-31 01:25:52,619 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/sourceforge/htmlcleaner/htmlcleaner/2.22/htmlcleaner-2.22-sources.jar
+2022-03-31 01:25:52,697 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlcleaner/htmlcleaner/2.22/htmlcleaner-2.22-sources.jar
+2022-03-31 01:25:52,911 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlcleaner/htmlcleaner/2.22/htmlcleaner-2.22-sources.jar
+2022-03-31 01:25:52,913 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sourceforge.htmlcleaner:htmlcleaner:2.22
+2022-03-31 01:25:52,996 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jdom/jdom2/2.0.5/jdom2-2.0.5-sources.jar
+2022-03-31 01:25:53,079 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.5/jdom2-2.0.5-sources.jar
+2022-03-31 01:25:53,237 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.5/jdom2-2.0.5-sources.jar
+2022-03-31 01:25:53,239 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jdom:jdom2:2.0.5
+2022-03-31 01:25:53,317 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2022-03-31 01:25:53,399 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2022-03-31 01:25:53,507 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2022-03-31 01:25:53,510 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.8.0
+2022-03-31 01:25:53,595 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-configuration/commons-configuration/1.10/commons-configuration-1.10-sources.jar
+2022-03-31 01:25:53,678 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-configuration/commons-configuration/1.10/commons-configuration-1.10-sources.jar
+2022-03-31 01:25:54,189 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-configuration/commons-configuration/1.10/commons-configuration-1.10-sources.jar
+2022-03-31 01:25:54,194 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2022-03-31 01:25:54,286 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2022-03-31 01:25:54,364 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2022-03-31 01:25:54,477 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2022-03-31 01:25:54,481 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2022-03-31 01:25:54,532 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2022-03-31 01:25:54,536 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-31 01:25:54,571 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre-sources.jar
+2022-03-31 01:25:54,664 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre-sources.jar
+2022-03-31 01:25:54,922 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre-sources.jar
+2022-03-31 01:25:54,926 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:30.1-jre
+2022-03-31 01:25:54,950 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.example:myproject-webapp:0.1.0-SNAPSHOT @ C:\Users\31651\myproject\site\webapp\pom.xml.
+2022-03-31 01:25:55,000 [Worker-5: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-site:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:55,005 [Worker-5: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-webfiles:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:55,357 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/components: org.example:myproject-components:0.1.0-SNAPSHOT with classifier  to /components/target/classes
+2022-03-31 01:25:55,465 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1-sources.jar
+2022-03-31 01:25:55,530 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:myproject-components:0.1.0-SNAPSHOT @ C:\Users\31651\myproject\site\components\pom.xml.
+2022-03-31 01:25:55,551 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1-sources.jar
+2022-03-31 01:25:55,619 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1-sources.jar
+2022-03-31 01:25:55,624 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:failureaccess:1.0.1
+2022-03-31 01:25:55,714 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar
+2022-03-31 01:25:55,800 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar
+2022-03-31 01:25:55,805 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:25:56,407 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2022-03-31 01:25:56,530 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2022-03-31 01:25:56,731 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2022-03-31 01:25:56,734 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2022-03-31 01:25:56,822 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2022-03-31 01:25:56,904 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2022-03-31 01:25:56,992 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2022-03-31 01:25:56,996 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.5.0
+2022-03-31 01:25:57,086 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4-sources.jar
+2022-03-31 01:25:57,169 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4-sources.jar
+2022-03-31 01:25:57,368 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/main/java
+2022-03-31 01:25:57,370 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /webapp/src/main/java overlaps with sources folder /webapp/src/main/java
+2022-03-31 01:25:57,374 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webapp/src/main/resources
+2022-03-31 01:25:57,411 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/test/java
+2022-03-31 01:25:57,412 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webapp/src/test/resources
+2022-03-31 01:25:57,497 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4-sources.jar
+2022-03-31 01:25:57,501 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.3.4
+2022-03-31 01:25:57,598 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3-sources.jar
+2022-03-31 01:25:57,751 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:57,757 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:57,759 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:25:57,768 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3-sources.jar
+2022-03-31 01:25:57,818 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:57,819 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:25:57,999 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3-sources.jar
+2022-03-31 01:25:58,003 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:1.3
+2022-03-31 01:25:58,100 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/james/apache-mime4j/0.6/apache-mime4j-0.6-sources.jar
+2022-03-31 01:25:58,140 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-site:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:58,144 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-webfiles:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:25:58,288 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j/0.6/apache-mime4j-0.6-sources.jar
+2022-03-31 01:25:58,429 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j/0.6/apache-mime4j-0.6-sources.jar
+2022-03-31 01:25:58,433 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.james:apache-mime4j:0.6
+2022-03-31 01:25:58,533 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms7-utilities/14.7.3/hippo-cms7-utilities-14.7.3-sources.jar
+2022-03-31 01:25:58,575 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/components: org.example:myproject-components:0.1.0-SNAPSHOT with classifier  to /components/target/classes
+2022-03-31 01:25:58,614 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:58,616 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:58,619 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:58,622 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:58,623 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:25:58,625 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of webapp
+2022-03-31 01:25:58,626 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webapp
+2022-03-31 01:25:58,776 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:25:58,785 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms7-utilities/14.7.3/hippo-cms7-utilities-14.7.3-sources.jar
+2022-03-31 01:25:58,789 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms7-utilities:14.7.3
+2022-03-31 01:25:58,883 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-security/14.7.3/hst-security-14.7.3-sources.jar
+2022-03-31 01:25:59,004 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-security/14.7.3/hst-security-14.7.3-sources.jar
+2022-03-31 01:25:59,011 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-security:14.7.3
+2022-03-31 01:25:59,121 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-core/14.7.3/hst-core-14.7.3-sources.jar
+2022-03-31 01:25:59,842 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-core/14.7.3/hst-core-14.7.3-sources.jar
+2022-03-31 01:25:59,847 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-core:14.7.3
+2022-03-31 01:25:59,936 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-pool/commons-pool/1.6/commons-pool-1.6-sources.jar
+2022-03-31 01:26:00,022 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.6/commons-pool-1.6-sources.jar
+2022-03-31 01:26:00,103 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.6/commons-pool-1.6-sources.jar
+2022-03-31 01:26:00,107 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-pool:commons-pool:1.6
+2022-03-31 01:26:00,212 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-jexl/commons-jexl/1.1/commons-jexl-1.1-sources.jar
+2022-03-31 01:26:00,298 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-jexl/commons-jexl/1.1/commons-jexl-1.1-sources.jar
+2022-03-31 01:26:00,302 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for commons-jexl:commons-jexl:1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-jexl:commons-jexl:jar:sources:1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:00,403 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-sources.jar
+2022-03-31 01:26:00,504 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-sources.jar
+2022-03-31 01:26:01,087 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-sources.jar
+2022-03-31 01:26:01,090 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:2.10.6
+2022-03-31 01:26:01,183 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/net/sf/ehcache/ehcache-web/2.0.4/ehcache-web-2.0.4-sources.jar
+2022-03-31 01:26:01,289 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-web/2.0.4/ehcache-web-2.0.4-sources.jar
+2022-03-31 01:26:01,602 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-web/2.0.4/ehcache-web-2.0.4-sources.jar
+2022-03-31 01:26:01,606 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache-web:2.0.4
+2022-03-31 01:26:01,704 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-session-pool/14.7.3/hst-session-pool-14.7.3-sources.jar
+2022-03-31 01:26:01,924 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:01,928 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:01,931 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:26:01,939 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:01,941 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:26:02,011 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-session-pool/14.7.3/hst-session-pool-14.7.3-sources.jar
+2022-03-31 01:26:02,016 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-session-pool:14.7.3
+2022-03-31 01:26:02,165 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-resourcebundle/14.7.3/hst-resourcebundle-14.7.3-sources.jar
+2022-03-31 01:26:02,189 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:02,190 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:02,190 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:02,193 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:02,193 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:02,324 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-resourcebundle/14.7.3/hst-resourcebundle-14.7.3-sources.jar
+2022-03-31 01:26:02,330 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-resourcebundle:14.7.3
+2022-03-31 01:26:02,432 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-common/14.7.3/hst-pagemodelapi-common-14.7.3-sources.jar
+2022-03-31 01:26:02,548 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-common/14.7.3/hst-pagemodelapi-common-14.7.3-sources.jar
+2022-03-31 01:26:02,554 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-common:14.7.3
+2022-03-31 01:26:02,690 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-v09/14.7.3/hst-pagemodelapi-v09-14.7.3-sources.jar
+2022-03-31 01:26:02,788 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-v09/14.7.3/hst-pagemodelapi-v09-14.7.3-sources.jar
+2022-03-31 01:26:02,792 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-v09:14.7.3
+2022-03-31 01:26:02,817 [Worker-5: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-site:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:26:02,821 [Worker-5: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.example:myproject-repository-data-webfiles:jar:0.1.0-SNAPSHOT is missing, no dependency information available
+2022-03-31 01:26:02,907 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/io/swagger/swagger-core/1.6.2/swagger-core-1.6.2-sources.jar
+2022-03-31 01:26:03,020 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-core/1.6.2/swagger-core-1.6.2-sources.jar
+2022-03-31 01:26:03,119 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-core/1.6.2/swagger-core-1.6.2-sources.jar
+2022-03-31 01:26:03,122 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-core:1.6.2
+2022-03-31 01:26:03,223 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/io/swagger/swagger-models/1.6.2/swagger-models-1.6.2-sources.jar
+2022-03-31 01:26:03,308 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.6.2/swagger-models-1.6.2-sources.jar
+2022-03-31 01:26:03,370 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.6.2/swagger-models-1.6.2-sources.jar
+2022-03-31 01:26:03,373 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-models:1.6.2
+2022-03-31 01:26:03,385 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/components: org.example:myproject-components:0.1.0-SNAPSHOT with classifier  to /components/target/classes
+2022-03-31 01:26:03,466 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/io/swagger/swagger-annotations/1.6.2/swagger-annotations-1.6.2-sources.jar
+2022-03-31 01:26:03,557 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.6.2/swagger-annotations-1.6.2-sources.jar
+2022-03-31 01:26:03,590 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /components/src/main/java
+2022-03-31 01:26:03,591 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /components/src/main/java overlaps with sources folder /components/src/main/java
+2022-03-31 01:26:03,591 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /components/src/main/resources
+2022-03-31 01:26:03,593 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /components/src/test/java
+2022-03-31 01:26:03,593 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /components/src/test/resources
+2022-03-31 01:26:03,825 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.6.2/swagger-annotations-1.6.2-sources.jar
+2022-03-31 01:26:03,836 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-annotations:1.6.2
+2022-03-31 01:26:03,970 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+2022-03-31 01:26:04,054 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+2022-03-31 01:26:04,062 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2022-03-31 01:26:04,138 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+2022-03-31 01:26:04,141 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:1.1.0.Final
+2022-03-31 01:26:04,228 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/io/swagger/swagger-jaxrs/1.6.2/swagger-jaxrs-1.6.2-sources.jar
+2022-03-31 01:26:04,315 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-jaxrs/1.6.2/swagger-jaxrs-1.6.2-sources.jar
+2022-03-31 01:26:04,641 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-jaxrs/1.6.2/swagger-jaxrs-1.6.2-sources.jar
+2022-03-31 01:26:04,645 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-jaxrs:1.6.2
+2022-03-31 01:26:04,724 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar
+2022-03-31 01:26:04,811 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar
+2022-03-31 01:26:04,994 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar
+2022-03-31 01:26:05,004 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reflections:reflections:0.9.11
+2022-03-31 01:26:05,123 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA-sources.jar
+2022-03-31 01:26:05,235 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA-sources.jar
+2022-03-31 01:26:05,368 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA-sources.jar
+2022-03-31 01:26:05,371 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.21.0-GA
+2022-03-31 01:26:05,456 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1-sources.jar
+2022-03-31 01:26:05,879 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1-sources.jar
+2022-03-31 01:26:06,078 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1-sources.jar
+2022-03-31 01:26:06,083 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:javax.ws.rs-api:2.1.1
+2022-03-31 01:26:06,174 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-v10/14.7.3/hst-pagemodelapi-v10-14.7.3-sources.jar
+2022-03-31 01:26:06,266 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/pagemodelapi/hst-pagemodelapi-v10/14.7.3/hst-pagemodelapi-v10-14.7.3-sources.jar
+2022-03-31 01:26:06,269 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-v10:14.7.3
+2022-03-31 01:26:06,475 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-jaxrs/14.7.3/hst-jaxrs-14.7.3-sources.jar
+2022-03-31 01:26:06,603 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-jaxrs/14.7.3/hst-jaxrs-14.7.3-sources.jar
+2022-03-31 01:26:06,607 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-jaxrs:14.7.3
+2022-03-31 01:26:06,713 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.3.12/cxf-rt-frontend-jaxrs-3.3.12-sources.jar
+2022-03-31 01:26:06,889 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.3.12/cxf-rt-frontend-jaxrs-3.3.12-sources.jar
+2022-03-31 01:26:07,343 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.3.12/cxf-rt-frontend-jaxrs-3.3.12-sources.jar
+2022-03-31 01:26:07,346 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-frontend-jaxrs:3.3.12
+2022-03-31 01:26:07,739 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/cxf/cxf-core/3.3.12/cxf-core-3.3.12-sources.jar
+2022-03-31 01:26:08,084 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.3.12/cxf-core-3.3.12-sources.jar
+2022-03-31 01:26:08,361 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.3.12/cxf-core-3.3.12-sources.jar
+2022-03-31 01:26:08,365 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-core:3.3.12
+2022-03-31 01:26:08,459 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3-sources.jar
+2022-03-31 01:26:08,589 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3-sources.jar
+2022-03-31 01:26:08,743 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3-sources.jar
+2022-03-31 01:26:08,746 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.3
+2022-03-31 01:26:08,841 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/glassfish/jaxb/txw2/2.3.3/txw2-2.3.3-sources.jar
+2022-03-31 01:26:08,942 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.3/txw2-2.3.3-sources.jar
+2022-03-31 01:26:09,020 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.3/txw2-2.3.3-sources.jar
+2022-03-31 01:26:09,023 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.3
+2022-03-31 01:26:09,134 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/istack/istack-commons-runtime/3.0.11/istack-commons-runtime-3.0.11-sources.jar
+2022-03-31 01:26:09,228 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.11/istack-commons-runtime-3.0.11-sources.jar
+2022-03-31 01:26:09,567 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.11/istack-commons-runtime-3.0.11-sources.jar
+2022-03-31 01:26:09,571 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.11
+2022-03-31 01:26:09,590 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:09,592 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:09,594 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:26:09,604 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:09,605 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-31 01:26:09,674 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2-sources.jar
+2022-03-31 01:26:09,687 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:09,688 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:09,688 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:09,691 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:09,691 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:09,770 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2-sources.jar
+2022-03-31 01:26:09,853 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2-sources.jar
+2022-03-31 01:26:09,857 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:1.2.2
+2022-03-31 01:26:09,963 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3-sources.jar
+2022-03-31 01:26:10,056 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3-sources.jar
+2022-03-31 01:26:10,215 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3-sources.jar
+2022-03-31 01:26:10,221 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:5.0.3
+2022-03-31 01:26:10,306 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-sources.jar
+2022-03-31 01:26:10,421 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-sources.jar
+2022-03-31 01:26:10,510 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-sources.jar
+2022-03-31 01:26:10,516 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:3.1.4
+2022-03-31 01:26:10,610 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.5/xmlschema-core-2.2.5-sources.jar
+2022-03-31 01:26:10,690 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.5/xmlschema-core-2.2.5-sources.jar
+2022-03-31 01:26:10,776 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.5/xmlschema-core-2.2.5-sources.jar
+2022-03-31 01:26:10,780 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ws.xmlschema:xmlschema-core:2.2.5
+2022-03-31 01:26:10,868 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/jakarta/ws/rs/jakarta.ws.rs-api/2.1.5/jakarta.ws.rs-api-2.1.5-sources.jar
+2022-03-31 01:26:10,969 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/ws/rs/jakarta.ws.rs-api/2.1.5/jakarta.ws.rs-api-2.1.5-sources.jar
+2022-03-31 01:26:11,044 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/ws/rs/jakarta.ws.rs-api/2.1.5/jakarta.ws.rs-api-2.1.5-sources.jar
+2022-03-31 01:26:11,047 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.ws.rs:jakarta.ws.rs-api:2.1.5
+2022-03-31 01:26:11,160 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar
+2022-03-31 01:26:11,246 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar
+2022-03-31 01:26:11,465 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar
+2022-03-31 01:26:11,468 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.3.2
+2022-03-31 01:26:11,568 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/cxf/cxf-rt-transports-http/3.3.12/cxf-rt-transports-http-3.3.12-sources.jar
+2022-03-31 01:26:11,656 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.3.12/cxf-rt-transports-http-3.3.12-sources.jar
+2022-03-31 01:26:11,859 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.3.12/cxf-rt-transports-http-3.3.12-sources.jar
+2022-03-31 01:26:11,863 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-transports-http:3.3.12
+2022-03-31 01:26:11,987 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/cxf/cxf-rt-security/3.3.12/cxf-rt-security-3.3.12-sources.jar
+2022-03-31 01:26:12,191 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.3.12/cxf-rt-security-3.3.12-sources.jar
+2022-03-31 01:26:12,440 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.3.12/cxf-rt-security-3.3.12-sources.jar
+2022-03-31 01:26:12,473 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-security:3.3.12
+2022-03-31 01:26:12,567 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1-sources.jar
+2022-03-31 01:26:12,657 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1-sources.jar
+2022-03-31 01:26:12,738 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1-sources.jar
+2022-03-31 01:26:12,742 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.ws:jaxws-api:2.3.1
+2022-03-31 01:26:12,833 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0-sources.jar
+2022-03-31 01:26:12,923 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0-sources.jar
+2022-03-31 01:26:12,990 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0-sources.jar
+2022-03-31 01:26:12,993 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.soap:javax.xml.soap-api:1.4.0
+2022-03-31 01:26:13,075 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0-sources.jar
+2022-03-31 01:26:13,163 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0-sources.jar
+2022-03-31 01:26:13,232 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0-sources.jar
+2022-03-31 01:26:13,236 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:javax.activation:1.2.0
+2022-03-31 01:26:13,324 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3-sources.jar
+2022-03-31 01:26:13,410 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3-sources.jar
+2022-03-31 01:26:13,549 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.3/geronimo-ws-metadata_2.0_spec-1.1.3-sources.jar
+2022-03-31 01:26:13,554 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-ws-metadata_2.0_spec:1.1.3
+2022-03-31 01:26:13,644 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03-sources.jar
+2022-03-31 01:26:13,843 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03-sources.jar
+2022-03-31 01:26:13,958 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/messaging/saaj/saaj-impl/1.4.0-b03/saaj-impl-1.4.0-b03-sources.jar
+2022-03-31 01:26:13,964 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.messaging.saaj:saaj-impl:1.4.0-b03
+2022-03-31 01:26:14,064 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7-sources.jar
+2022-03-31 01:26:14,166 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7-sources.jar
+2022-03-31 01:26:14,232 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/1.9.7/mimepull-1.9.7-sources.jar
+2022-03-31 01:26:14,238 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.mimepull:mimepull:1.9.7
+2022-03-31 01:26:14,327 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8-sources.jar
+2022-03-31 01:26:14,425 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8-sources.jar
+2022-03-31 01:26:14,760 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8-sources.jar
+2022-03-31 01:26:14,764 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.7.8
+2022-03-31 01:26:14,847 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9-sources.jar
+2022-03-31 01:26:14,943 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9-sources.jar
+2022-03-31 01:26:15,337 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacorb/jacorb-omgapi/3.9/jacorb-omgapi-3.9-sources.jar
+2022-03-31 01:26:15,341 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jacorb:jacorb-omgapi:3.9
+2022-03-31 01:26:15,473 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.10.5/jackson-jaxrs-json-provider-2.10.5-sources.jar
+2022-03-31 01:26:15,562 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.10.5/jackson-jaxrs-json-provider-2.10.5-sources.jar
+2022-03-31 01:26:15,809 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.10.5/jackson-jaxrs-json-provider-2.10.5-sources.jar
+2022-03-31 01:26:15,814 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.5
+2022-03-31 01:26:15,911 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.5/jackson-module-jaxb-annotations-2.10.5-sources.jar
+2022-03-31 01:26:15,997 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.5/jackson-module-jaxb-annotations-2.10.5-sources.jar
+2022-03-31 01:26:16,180 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.5/jackson-module-jaxb-annotations-2.10.5-sources.jar
+2022-03-31 01:26:16,183 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.5
+2022-03-31 01:26:16,266 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2-sources.jar
+2022-03-31 01:26:16,354 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2-sources.jar
+2022-03-31 01:26:16,444 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2-sources.jar
+2022-03-31 01:26:16,449 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:2.3.2
+2022-03-31 01:26:16,533 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/core/jackson-core/2.10.5/jackson-core-2.10.5-sources.jar
+2022-03-31 01:26:16,706 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.5/jackson-core-2.10.5-sources.jar
+2022-03-31 01:26:16,821 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.5/jackson-core-2.10.5-sources.jar
+2022-03-31 01:26:16,824 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.5
+2022-03-31 01:26:16,911 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/core/jackson-annotations/2.10.5/jackson-annotations-2.10.5-sources.jar
+2022-03-31 01:26:17,002 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.10.5/jackson-annotations-2.10.5-sources.jar
+2022-03-31 01:26:17,078 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.10.5/jackson-annotations-2.10.5-sources.jar
+2022-03-31 01:26:17,082 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.10.5
+2022-03-31 01:26:17,166 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.10.5/jackson-jaxrs-base-2.10.5-sources.jar
+2022-03-31 01:26:17,253 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.10.5/jackson-jaxrs-base-2.10.5-sources.jar
+2022-03-31 01:26:17,486 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.10.5/jackson-jaxrs-base-2.10.5-sources.jar
+2022-03-31 01:26:17,490 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.5
+2022-03-31 01:26:17,577 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.10.5/jackson-dataformat-yaml-2.10.5-sources.jar
+2022-03-31 01:26:17,684 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.10.5/jackson-dataformat-yaml-2.10.5-sources.jar
+2022-03-31 01:26:17,890 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.10.5/jackson-dataformat-yaml-2.10.5-sources.jar
+2022-03-31 01:26:17,894 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.5
+2022-03-31 01:26:17,970 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26-sources.jar
+2022-03-31 01:26:18,060 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26-sources.jar
+2022-03-31 01:26:18,161 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26-sources.jar
+2022-03-31 01:26:18,164 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.26
+2022-03-31 01:26:18,248 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-restapi/14.7.3/hst-restapi-14.7.3-sources.jar
+2022-03-31 01:26:18,348 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/components/hst-restapi/14.7.3/hst-restapi-14.7.3-sources.jar
+2022-03-31 01:26:18,352 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-restapi:14.7.3
+2022-03-31 01:26:18,449 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.3.12/cxf-rt-rs-security-cors-3.3.12-sources.jar
+2022-03-31 01:26:18,549 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.3.12/cxf-rt-rs-security-cors-3.3.12-sources.jar
+2022-03-31 01:26:18,691 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.3.12/cxf-rt-rs-security-cors-3.3.12-sources.jar
+2022-03-31 01:26:18,694 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-rs-security-cors:3.3.12
+2022-03-31 01:26:18,787 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar
+2022-03-31 01:26:18,871 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar
+2022-03-31 01:26:19,259 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar
+2022-03-31 01:26:19,263 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2022-03-31 01:26:19,349 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-core/5.3.12/spring-core-5.3.12-sources.jar
+2022-03-31 01:26:19,443 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.12/spring-core-5.3.12-sources.jar
+2022-03-31 01:26:19,684 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.12/spring-core-5.3.12-sources.jar
+2022-03-31 01:26:19,688 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.12
+2022-03-31 01:26:19,829 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-beans/5.3.12/spring-beans-5.3.12-sources.jar
+2022-03-31 01:26:20,346 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.12/spring-beans-5.3.12-sources.jar
+2022-03-31 01:26:20,754 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.12/spring-beans-5.3.12-sources.jar
+2022-03-31 01:26:20,757 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.12
+2022-03-31 01:26:20,927 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-context/5.3.12/spring-context-5.3.12-sources.jar
+2022-03-31 01:26:21,011 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.12/spring-context-5.3.12-sources.jar
+2022-03-31 01:26:21,254 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.12/spring-context-5.3.12-sources.jar
+2022-03-31 01:26:21,257 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.12
+2022-03-31 01:26:21,337 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-expression/5.3.12/spring-expression-5.3.12-sources.jar
+2022-03-31 01:26:21,424 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.12/spring-expression-5.3.12-sources.jar
+2022-03-31 01:26:21,509 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.12/spring-expression-5.3.12-sources.jar
+2022-03-31 01:26:21,512 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.12
+2022-03-31 01:26:21,596 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-context-support/5.3.12/spring-context-support-5.3.12-sources.jar
+2022-03-31 01:26:21,675 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.3.12/spring-context-support-5.3.12-sources.jar
+2022-03-31 01:26:21,745 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.3.12/spring-context-support-5.3.12-sources.jar
+2022-03-31 01:26:21,747 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.3.12
+2022-03-31 01:26:21,830 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-web/5.3.12/spring-web-5.3.12-sources.jar
+2022-03-31 01:26:21,909 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.12/spring-web-5.3.12-sources.jar
+2022-03-31 01:26:22,168 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.12/spring-web-5.3.12-sources.jar
+2022-03-31 01:26:22,171 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.3.12
+2022-03-31 01:26:22,250 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-webmvc/5.3.12/spring-webmvc-5.3.12-sources.jar
+2022-03-31 01:26:22,337 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.12/spring-webmvc-5.3.12-sources.jar
+2022-03-31 01:26:22,513 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.12/spring-webmvc-5.3.12-sources.jar
+2022-03-31 01:26:22,519 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.3.12
+2022-03-31 01:26:22,609 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/springframework/spring-aop/5.3.12/spring-aop-5.3.12-sources.jar
+2022-03-31 01:26:22,693 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.12/spring-aop-5.3.12-sources.jar
+2022-03-31 01:26:22,809 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.12/spring-aop-5.3.12-sources.jar
+2022-03-31 01:26:22,813 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.12
+2022-03-31 01:26:23,119 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-mock/14.7.3/hst-mock-14.7.3-sources.jar
+2022-03-31 01:26:23,263 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-mock/14.7.3/hst-mock-14.7.3-sources.jar
+2022-03-31 01:26:23,268 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-mock:14.7.3
+2022-03-31 01:26:23,355 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-essentials-components-hst/14.7.3/hippo-essentials-components-hst-14.7.3-sources.jar
+2022-03-31 01:26:23,468 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-essentials-components-hst/14.7.3/hippo-essentials-components-hst-14.7.3-sources.jar
+2022-03-31 01:26:23,471 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-essentials-components-hst:14.7.3
+2022-03-31 01:26:23,556 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-connector/14.7.3/hippo-repository-connector-14.7.3-sources.jar
+2022-03-31 01:26:23,649 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-connector/14.7.3/hippo-repository-connector-14.7.3-sources.jar
+2022-03-31 01:26:23,652 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-connector:14.7.3
+2022-03-31 01:26:23,739 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-api/2.21.6-h2/jackrabbit-api-2.21.6-h2-sources.jar
+2022-03-31 01:26:23,808 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-api/2.21.6-h2/jackrabbit-api-2.21.6-h2-sources.jar
+2022-03-31 01:26:23,812 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-api:2.21.6-h2
+2022-03-31 01:26:23,892 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/oak-jackrabbit-api/1.38.0/oak-jackrabbit-api-1.38.0-sources.jar
+2022-03-31 01:26:24,077 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/oak-jackrabbit-api/1.38.0/oak-jackrabbit-api-1.38.0-sources.jar
+2022-03-31 01:26:24,220 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/oak-jackrabbit-api/1.38.0/oak-jackrabbit-api-1.38.0-sources.jar
+2022-03-31 01:26:24,222 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:oak-jackrabbit-api:1.38.0
+2022-03-31 01:26:24,306 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/jetbrains/annotations/18.0.0/annotations-18.0.0-sources.jar
+2022-03-31 01:26:24,407 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/18.0.0/annotations-18.0.0-sources.jar
+2022-03-31 01:26:24,534 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/18.0.0/annotations-18.0.0-sources.jar
+2022-03-31 01:26:24,537 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:18.0.0
+2022-03-31 01:26:24,650 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-jcr-rmi/2.21.6-h2/jackrabbit-jcr-rmi-2.21.6-h2-sources.jar
+2022-03-31 01:26:24,849 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-jcr-rmi/2.21.6-h2/jackrabbit-jcr-rmi-2.21.6-h2-sources.jar
+2022-03-31 01:26:24,853 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-jcr-rmi:2.21.6-h2
+2022-03-31 01:26:24,929 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-utilities/14.7.3/hippo-repository-utilities-14.7.3-sources.jar
+2022-03-31 01:26:25,051 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-utilities/14.7.3/hippo-repository-utilities-14.7.3-sources.jar
+2022-03-31 01:26:25,056 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-utilities:14.7.3
+2022-03-31 01:26:25,148 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.21.6-h2/jackrabbit-jcr-commons-2.21.6-h2-sources.jar
+2022-03-31 01:26:25,419 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.21.6-h2/jackrabbit-jcr-commons-2.21.6-h2-sources.jar
+2022-03-31 01:26:25,423 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-jcr-commons:2.21.6-h2
+2022-03-31 01:26:25,509 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.21.6-h2/jackrabbit-spi-commons-2.21.6-h2-sources.jar
+2022-03-31 01:26:25,870 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.21.6-h2/jackrabbit-spi-commons-2.21.6-h2-sources.jar
+2022-03-31 01:26:25,877 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-spi-commons:2.21.6-h2
+2022-03-31 01:26:25,961 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-spi/2.21.6-h2/jackrabbit-spi-2.21.6-h2-sources.jar
+2022-03-31 01:26:26,079 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/jackrabbit/jackrabbit-spi/2.21.6-h2/jackrabbit-spi-2.21.6-h2-sources.jar
+2022-03-31 01:26:26,093 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-spi:2.21.6-h2
+2022-03-31 01:26:26,174 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar
+2022-03-31 01:26:26,259 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar
+2022-03-31 01:26:26,550 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar
+2022-03-31 01:26:26,554 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.28
+2022-03-31 01:26:26,652 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-plugin-selections-hst-client/14.7.3/hippo-plugin-selections-hst-client-14.7.3-sources.jar
+2022-03-31 01:26:26,750 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-plugin-selections-hst-client/14.7.3/hippo-plugin-selections-hst-client-14.7.3-sources.jar
+2022-03-31 01:26:26,754 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-plugin-selections-hst-client:14.7.3
+2022-03-31 01:26:26,841 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms7-commons/14.7.3/hippo-cms7-commons-14.7.3-sources.jar
+2022-03-31 01:26:27,072 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms7-commons/14.7.3/hippo-cms7-commons-14.7.3-sources.jar
+2022-03-31 01:26:27,077 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms7-commons:14.7.3
+2022-03-31 01:26:27,170 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-services/14.7.3/hippo-services-14.7.3-sources.jar
+2022-03-31 01:26:27,284 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-services/14.7.3/hippo-services-14.7.3-sources.jar
+2022-03-31 01:26:27,288 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-services:14.7.3
+2022-03-31 01:26:27,372 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms-testutils/14.7.3/hippo-cms-testutils-14.7.3-sources.jar
+2022-03-31 01:26:27,484 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-cms-testutils/14.7.3/hippo-cms-testutils-14.7.3-sources.jar
+2022-03-31 01:26:27,496 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms-testutils:14.7.3
+2022-03-31 01:26:27,582 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/junit/junit/4.13.1/junit-4.13.1-sources.jar
+2022-03-31 01:26:27,675 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1-sources.jar
+2022-03-31 01:26:27,787 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1-sources.jar
+2022-03-31 01:26:27,792 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.1
+2022-03-31 01:26:27,879 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9-sources.jar
+2022-03-31 01:26:27,999 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9-sources.jar
+2022-03-31 01:26:28,135 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9-sources.jar
+2022-03-31 01:26:28,137 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.9
+2022-03-31 01:26:28,230 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-api/14.7.3/hippo-repository-api-14.7.3-sources.jar
+2022-03-31 01:26:28,410 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-api/14.7.3/hippo-repository-api-14.7.3-sources.jar
+2022-03-31 01:26:28,416 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-api:14.7.3
+2022-03-31 01:26:28,505 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-builtin/14.7.3/hippo-repository-builtin-14.7.3-sources.jar
+2022-03-31 01:26:28,685 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hippo-repository-builtin/14.7.3/hippo-repository-builtin-14.7.3-sources.jar
+2022-03-31 01:26:28,690 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-builtin:14.7.3
+2022-03-31 01:26:28,785 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-api/14.7.3/hst-api-14.7.3-sources.jar
+2022-03-31 01:26:29,331 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/hst-api/14.7.3/hst-api-14.7.3-sources.jar
+2022-03-31 01:26:29,353 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-api:14.7.3
+2022-03-31 01:26:29,436 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar
+2022-03-31 01:26:29,525 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar
+2022-03-31 01:26:29,669 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar
+2022-03-31 01:26:29,675 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1
+2022-03-31 01:26:29,750 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/jcr/jcr/2.0/jcr-2.0-sources.jar
+2022-03-31 01:26:29,831 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/jcr/jcr/2.0/jcr-2.0-sources.jar
+2022-03-31 01:26:29,901 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/jcr/jcr/2.0/jcr-2.0-sources.jar
+2022-03-31 01:26:29,909 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.jcr:jcr:2.0
+2022-03-31 01:26:29,991 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/mail/mail/1.4.7/mail-1.4.7-sources.jar
+2022-03-31 01:26:30,084 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.7/mail-1.4.7-sources.jar
+2022-03-31 01:26:30,267 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.7/mail-1.4.7-sources.jar
+2022-03-31 01:26:30,270 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.mail:mail:1.4.7
+2022-03-31 01:26:30,353 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2022-03-31 01:26:30,442 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2022-03-31 01:26:30,526 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2022-03-31 01:26:30,529 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1.1
+2022-03-31 01:26:30,621 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1-sources.jar
+2022-03-31 01:26:30,700 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1-sources.jar
+2022-03-31 01:26:30,801 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1-sources.jar
+2022-03-31 01:26:30,805 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-javamail_1.4_spec:1.7.1
+2022-03-31 01:26:30,889 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar
+2022-03-31 01:26:30,961 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar
+2022-03-31 01:26:31,021 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar
+2022-03-31 01:26:31,023 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.30
+2022-03-31 01:26:31,110 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.0/log4j-slf4j-impl-2.17.0-sources.jar
+2022-03-31 01:26:31,203 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.0/log4j-slf4j-impl-2.17.0-sources.jar
+2022-03-31 01:26:31,329 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.0/log4j-slf4j-impl-2.17.0-sources.jar
+2022-03-31 01:26:31,332 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-slf4j-impl:2.17.0
+2022-03-31 01:26:31,423 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0-sources.jar
+2022-03-31 01:26:31,628 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0-sources.jar
+2022-03-31 01:26:31,729 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0-sources.jar
+2022-03-31 01:26:31,731 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.17.0
+2022-03-31 01:26:31,811 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0-sources.jar
+2022-03-31 01:26:31,896 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0-sources.jar
+2022-03-31 01:26:32,157 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0-sources.jar
+2022-03-31 01:26:32,163 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.17.0
+2022-03-31 01:26:32,247 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar
+2022-03-31 01:26:32,330 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar
+2022-03-31 01:26:32,436 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar
+2022-03-31 01:26:32,438 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.30
+2022-03-31 01:26:32,517 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-03-31 01:26:32,607 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-03-31 01:26:32,659 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-03-31 01:26:32,662 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2022-03-31 01:26:32,747 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-sources.jar
+2022-03-31 01:26:32,835 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-sources.jar
+2022-03-31 01:26:32,838 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for commons-logging:commons-logging-api:1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-logging:commons-logging-api:jar:sources:1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:32,923 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-site/0.1.0-SNAPSHOT/myproject-repository-data-site-0.1.0-SNAPSHOT-sources.jar
+2022-03-31 01:26:32,926 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.example:myproject-repository-data-site:0.1.0-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.example:myproject-repository-data-site:jar:sources:0.1.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:33,010 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/example/myproject-repository-data-webfiles/0.1.0-SNAPSHOT/myproject-repository-data-webfiles-0.1.0-SNAPSHOT-sources.jar
+2022-03-31 01:26:33,012 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.example:myproject-repository-data-webfiles:0.1.0-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.example:myproject-repository-data-webfiles:jar:sources:0.1.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:33,018 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2022-03-31 01:26:33,109 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/apache/commons/commons-proxy/1.0/commons-proxy-1.0-javadoc.jar
+2022-03-31 01:26:33,191 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-proxy/1.0/commons-proxy-1.0-javadoc.jar
+2022-03-31 01:26:33,194 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.commons:commons-proxy:1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.commons:commons-proxy:jar:javadoc:1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:33,203 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-commons:14.7.3
+2022-03-31 01:26:33,209 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.10.5.1
+2022-03-31 01:26:33,215 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.9.4
+2022-03-31 01:26:33,219 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2022-03-31 01:26:33,223 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-client:14.7.3
+2022-03-31 01:26:33,227 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-rewriter:14.7.3
+2022-03-31 01:26:33,231 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sourceforge.htmlcleaner:htmlcleaner:2.22
+2022-03-31 01:26:33,233 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jdom:jdom2:2.0.5
+2022-03-31 01:26:33,235 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.8.0
+2022-03-31 01:26:33,238 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2022-03-31 01:26:33,241 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2022-03-31 01:26:33,243 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:30.1-jre
+2022-03-31 01:26:33,247 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:failureaccess:1.0.1
+2022-03-31 01:26:33,327 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-javadoc.jar
+2022-03-31 01:26:33,428 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-javadoc.jar
+2022-03-31 01:26:33,433 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:33,443 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2022-03-31 01:26:33,451 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.5.0
+2022-03-31 01:26:33,464 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.3.4
+2022-03-31 01:26:33,473 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:1.3
+2022-03-31 01:26:33,479 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.james:apache-mime4j:0.6
+2022-03-31 01:26:33,484 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms7-utilities:14.7.3
+2022-03-31 01:26:33,491 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-security:14.7.3
+2022-03-31 01:26:33,498 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-core:14.7.3
+2022-03-31 01:26:33,504 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-pool:commons-pool:1.6
+2022-03-31 01:26:33,608 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-jexl/commons-jexl/1.1/commons-jexl-1.1-javadoc.jar
+2022-03-31 01:26:33,699 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-jexl/commons-jexl/1.1/commons-jexl-1.1-javadoc.jar
+2022-03-31 01:26:33,701 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for commons-jexl:commons-jexl:1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-jexl:commons-jexl:jar:javadoc:1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:33,706 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:2.10.6
+2022-03-31 01:26:33,710 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache-web:2.0.4
+2022-03-31 01:26:33,713 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-session-pool:14.7.3
+2022-03-31 01:26:33,716 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-resourcebundle:14.7.3
+2022-03-31 01:26:33,719 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-common:14.7.3
+2022-03-31 01:26:33,722 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-v09:14.7.3
+2022-03-31 01:26:33,726 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-core:1.6.2
+2022-03-31 01:26:33,729 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-models:1.6.2
+2022-03-31 01:26:33,732 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-annotations:1.6.2
+2022-03-31 01:26:33,734 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:1.1.0.Final
+2022-03-31 01:26:33,737 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger:swagger-jaxrs:1.6.2
+2022-03-31 01:26:33,741 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reflections:reflections:0.9.11
+2022-03-31 01:26:33,744 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.21.0-GA
+2022-03-31 01:26:33,747 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:javax.ws.rs-api:2.1.1
+2022-03-31 01:26:33,749 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.pagemodelapi:hst-pagemodelapi-v10:14.7.3
+2022-03-31 01:26:33,751 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-jaxrs:14.7.3
+2022-03-31 01:26:33,754 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-frontend-jaxrs:3.3.12
+2022-03-31 01:26:33,757 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-core:3.3.12
+2022-03-31 01:26:33,759 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.3
+2022-03-31 01:26:33,762 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.3
+2022-03-31 01:26:33,769 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.11
+2022-03-31 01:26:33,772 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:1.2.2
+2022-03-31 01:26:33,775 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:5.0.3
+2022-03-31 01:26:33,777 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:3.1.4
+2022-03-31 01:26:33,780 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ws.xmlschema:xmlschema-core:2.2.5
+2022-03-31 01:26:33,782 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.ws.rs:jakarta.ws.rs-api:2.1.5
+2022-03-31 01:26:33,784 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.3.2
+2022-03-31 01:26:33,787 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-transports-http:3.3.12
+2022-03-31 01:26:33,790 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-security:3.3.12
+2022-03-31 01:26:33,792 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.ws:jaxws-api:2.3.1
+2022-03-31 01:26:33,796 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.soap:javax.xml.soap-api:1.4.0
+2022-03-31 01:26:33,799 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:javax.activation:1.2.0
+2022-03-31 01:26:33,804 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-ws-metadata_2.0_spec:1.1.3
+2022-03-31 01:26:33,808 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.messaging.saaj:saaj-impl:1.4.0-b03
+2022-03-31 01:26:33,813 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.mimepull:mimepull:1.9.7
+2022-03-31 01:26:33,817 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.7.8
+2022-03-31 01:26:33,820 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jacorb:jacorb-omgapi:3.9
+2022-03-31 01:26:33,823 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.5
+2022-03-31 01:26:33,827 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.5
+2022-03-31 01:26:33,832 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:2.3.2
+2022-03-31 01:26:33,835 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.5
+2022-03-31 01:26:33,839 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.10.5
+2022-03-31 01:26:33,841 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.5
+2022-03-31 01:26:33,846 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.5
+2022-03-31 01:26:33,850 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.26
+2022-03-31 01:26:33,854 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.components:hst-restapi:14.7.3
+2022-03-31 01:26:33,858 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-rs-security-cors:3.3.12
+2022-03-31 01:26:33,862 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2022-03-31 01:26:33,866 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.12
+2022-03-31 01:26:33,870 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.12
+2022-03-31 01:26:33,874 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.12
+2022-03-31 01:26:33,877 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.12
+2022-03-31 01:26:33,881 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.3.12
+2022-03-31 01:26:33,885 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.3.12
+2022-03-31 01:26:33,888 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.3.12
+2022-03-31 01:26:33,893 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.12
+2022-03-31 01:26:33,898 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-mock:14.7.3
+2022-03-31 01:26:33,903 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-essentials-components-hst:14.7.3
+2022-03-31 01:26:33,906 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-connector:14.7.3
+2022-03-31 01:26:33,911 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-api:2.21.6-h2
+2022-03-31 01:26:33,915 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:oak-jackrabbit-api:1.38.0
+2022-03-31 01:26:33,920 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:18.0.0
+2022-03-31 01:26:33,930 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-jcr-rmi:2.21.6-h2
+2022-03-31 01:26:33,935 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-utilities:14.7.3
+2022-03-31 01:26:33,940 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-jcr-commons:2.21.6-h2
+2022-03-31 01:26:33,945 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-spi-commons:2.21.6-h2
+2022-03-31 01:26:33,949 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-spi:2.21.6-h2
+2022-03-31 01:26:33,955 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.28
+2022-03-31 01:26:33,959 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-plugin-selections-hst-client:14.7.3
+2022-03-31 01:26:34,045 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/toolkit-resources/addon/hst-addon-hcm-site/14.7.3/hst-addon-hcm-site-14.7.3-sources.jar
+2022-03-31 01:26:34,127 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/org/onehippo/cms7/hst/toolkit-resources/addon/hst-addon-hcm-site/14.7.3/hst-addon-hcm-site-14.7.3-sources.jar
+2022-03-31 01:26:34,143 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst.toolkit-resources.addon:hst-addon-hcm-site:14.7.3
+2022-03-31 01:26:34,149 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms7-commons:14.7.3
+2022-03-31 01:26:34,155 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-services:14.7.3
+2022-03-31 01:26:34,162 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-cms-testutils:14.7.3
+2022-03-31 01:26:34,167 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.1
+2022-03-31 01:26:34,171 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.9
+2022-03-31 01:26:34,176 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-api:14.7.3
+2022-03-31 01:26:34,181 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7:hippo-repository-builtin:14.7.3
+2022-03-31 01:26:34,186 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.onehippo.cms7.hst:hst-api:14.7.3
+2022-03-31 01:26:34,193 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1
+2022-03-31 01:26:34,200 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.jcr:jcr:2.0
+2022-03-31 01:26:34,205 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.mail:mail:1.4.7
+2022-03-31 01:26:34,210 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1.1
+2022-03-31 01:26:34,216 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-javamail_1.4_spec:1.7.1
+2022-03-31 01:26:34,219 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.30
+2022-03-31 01:26:34,222 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-slf4j-impl:2.17.0
+2022-03-31 01:26:34,225 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.17.0
+2022-03-31 01:26:34,228 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.17.0
+2022-03-31 01:26:34,231 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.30
+2022-03-31 01:26:34,235 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2022-03-31 01:26:34,312 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.onehippo.com/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-javadoc.jar
+2022-03-31 01:26:34,400 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-javadoc.jar
+2022-03-31 01:26:34,404 [Worker-3: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for commons-logging:commons-logging-api:1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-logging:commons-logging-api:jar:javadoc:1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-03-31 01:26:35,057 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:35,058 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:35,058 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:35,059 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:35,060 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:35,069 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:35,070 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:35,070 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:26:35,073 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:26:35,073 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:30:57,468 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:30:57,469 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:30:57,469 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-31 01:30:57,472 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 01:30:57,472 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
